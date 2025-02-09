@@ -97,10 +97,6 @@ module streaming {
              "/acdsep:service-endpoint/acdsep:endpoint-id";
       }
     }
-    leaf is-active {
-      type boolean;
-      default false;
-    }
   }
 
 // EDGE SERVICE /////////////////////////////////////////////////////////////////
